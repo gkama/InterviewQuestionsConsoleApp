@@ -1,0 +1,7 @@
+C:\Users\gkama\Documents\Visual Studio 2017\Projects\InterviewQuestionsConsoleApp\InterviewQuestionsConsoleApp\bin\Debug\InterviewQuestionsConsoleApp.exe.config
+C:\Users\gkama\Documents\Visual Studio 2017\Projects\InterviewQuestionsConsoleApp\InterviewQuestionsConsoleApp\bin\Debug\InterviewQuestionsConsoleApp.exe
+C:\Users\gkama\Documents\Visual Studio 2017\Projects\InterviewQuestionsConsoleApp\InterviewQuestionsConsoleApp\bin\Debug\InterviewQuestionsConsoleApp.pdb
+C:\Users\gkama\Documents\Visual Studio 2017\Projects\InterviewQuestionsConsoleApp\InterviewQuestionsConsoleApp\obj\Debug\InterviewQuestionsConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\gkama\Documents\Visual Studio 2017\Projects\InterviewQuestionsConsoleApp\InterviewQuestionsConsoleApp\obj\Debug\InterviewQuestionsConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\gkama\Documents\Visual Studio 2017\Projects\InterviewQuestionsConsoleApp\InterviewQuestionsConsoleApp\obj\Debug\InterviewQuestionsConsoleApp.exe
+C:\Users\gkama\Documents\Visual Studio 2017\Projects\InterviewQuestionsConsoleApp\InterviewQuestionsConsoleApp\obj\Debug\InterviewQuestionsConsoleApp.pdb
